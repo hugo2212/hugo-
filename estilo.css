@@ -62,11 +62,19 @@
     
 }
 #caixa{
-width:  0px auto 0px auto;
-height: 0px auto 0px auto; 
-margin: 0px auto 0px auto;
-border-color: black;
-border-style: solid;
-border-width: 1px;
+  width:  0px auto 0px auto;
+  height: 0px auto 0px auto; 
+  margin: 0px auto 0px auto;
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
 
 }
+#txt_jumbotrom{
+   width: 80%; /*largura*/
+   height: 10%; /*altura*/
+   margin: 0px auto 0px auto;
+   text-align: center;
+   /*border-style: solid;*/
+  /* border-width: 1px;
+#txt_}
